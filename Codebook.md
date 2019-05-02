@@ -13,9 +13,9 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ## Instruction list
 
-1. Install the dplyr package by running install.packages("dplyr") if you do not already have it installed. The script was written with dplyr version 0.8.0.1.
+1. Install the dplyr package by running `install.packages("dplyr")` if you do not already have it installed. The script was written with dplyr version 0.8.0.1.
 
-2. Run the run_analysis script `source("run_analysis.R")
+2. Run the run_analysis script `source("run_analysis.R")`
 
 
 ### Tidy dataset
